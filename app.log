@@ -1,0 +1,8 @@
+{"level":"info","message":"Server started on port 3000"}
+{"level":"info","message":"Ожидание сообщений в очереди..."}
+{"level":"info","message":"Получено из очереди: Задача для обработки"}
+{"level":"info","message":"Отправлено в очередь: Результат обработки задачи"}
+{"level":"info","message":"Получено из очереди: Задача для обработки"}
+{"level":"info","message":"Отправлено в очередь: Результат обработки задачи"}
+{"level":"info","message":"\nЗакрытие сервера..."}
+{"level":"info","message":"Соединение и канал RabbitMQ закрыты."}
